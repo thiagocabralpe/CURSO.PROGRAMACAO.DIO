@@ -54,6 +54,9 @@ programa
 				caso 2: 
 				escreva("Ingles! ")
 				pare
+
+				//testando git local
+				
 				
 			}
 		}
@@ -63,7 +66,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 811; 
+ * @POSICAO-CURSOR = 1025; 
  * @PONTOS-DE-PARADA = 45;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
