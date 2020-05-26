@@ -10,6 +10,7 @@ programa
 			escreva("3 - Amazon Prime" +"\n")
 	
 			inteiro menu=0
+			inteiro idioma=0
 
 			escreva("\n" + "Sua escolha: ")
 			leia(menu)
@@ -33,7 +34,27 @@ programa
 				caso 3: 
 				escreva("Abrindo Amazon Prime!")
 				pare
-	
+			
+			}
+
+			enquanto(idoma > 2 ou idioma < 0)
+			{
+				escreva("Escolha a opçao 1 ou 2: ")
+			}
+			
+			escolha (idioma)
+			{
+				escreva(" 1 - Portugues" + "\n" + " 2 - Ingles" + "\n")
+			
+
+				caso 1:
+				escreva("Portugues! "
+				pare
+
+				caso 2: 
+				escreva("Ingles! ")
+				pare
+				
 			}
 		}
 }
@@ -42,8 +63,8 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 466; 
- * @PONTOS-DE-PARADA = ;
+ * @POSICAO-CURSOR = 811; 
+ * @PONTOS-DE-PARADA = 45;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
  * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
